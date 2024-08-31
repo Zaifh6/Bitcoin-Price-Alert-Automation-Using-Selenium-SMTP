@@ -1,7 +1,10 @@
 # Bitcoin Price Alert System Using Selenium & SMTP
 
-![Bitcoin Price Alert](https://github.com/user-attachments/assets/f69d28c6-c049-435d-a831-d95c7efef7b7)
-![Price Alert Example](https://github.com/user-attachments/assets/0cae66de-a66f-4ad7-b073-d9d2cd0decdc)
+![Bitcoin Price Alert Automation Using](https://github.com/user-attachments/assets/37dc78ac-4c18-4283-b819-bb44ac5ba7e6)
+![image](https://github.com/user-attachments/assets/01e54ee6-7284-4978-a2cb-68336e9966b5)
+![image](https://github.com/user-attachments/assets/94d413e2-82e4-4bd0-8501-d7ff8e376222)
+
+
 
 ## About The Project
 
